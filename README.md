@@ -1,1 +1,1 @@
-# This is GitHub repository of Task 4.
+# Welcome to GitHub repository of Task 4.
